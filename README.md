@@ -37,7 +37,7 @@ The goal is to ensure that the product is not only well-targeted but also statis
 
 ---
 
-## 2. Project Overview
+## 2. Approach / Methodology
 
 This project follows a data-driven approach to support the launch of a new credit card by AtliQo Bank.
 
